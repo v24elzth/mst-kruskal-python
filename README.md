@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Minimum Spanning Tree Banner" width="100%">
+</p>
+
 # 🌐 Minimum Spanning Tree – Kruskal's Algorithm (Python)
 
 This Python program constructs a **Minimum Spanning Tree (MST)** using **Kruskal’s Algorithm** and Union-Find (Disjoint Set). It calculates the minimum total distance connecting tourism spots in Jakarta and surrounding areas.
