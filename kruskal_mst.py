@@ -1,12 +1,3 @@
-'''
-Individual Project
-
-Soal 2 (Soal Utama)
-Minimum Spanning Tree
-
-NIM  : 242300102
-Nama : Elizabeth
-'''
 
 class Graph: 
   def __init__(self, vertices): 
